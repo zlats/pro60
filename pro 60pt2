@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>Teacher Activity</title>
+    </head>
+    <body>
+        <p> How to declare the arrays ?</p>
+        <h4 id="declaration_of_aarrays">Apple,Orange,Mango</h4>
+        <p></p>
+        <hr>
+        <p>How to fetch the first element of the Array ?</p>
+        <h4 id="access_second_element">Orange</h4>
+        <p></p>
+        <hr>
+        <p>How to loop the array array?</p>
+        <h4 id="loop_the_array">
+            "Apple"
+            <br>
+            "Orange"
+            <br>
+            "Mango"
+            <br>
+        </h4>
+        <p></p>
+        <hr>
+        <p>How to add element at the end of the array ?</p>
+        <h4 id="add_element at the_end_of_array">
+            Apple,Orange,Mango,Lemon,cherry</h4>
+            <p></p>
+            <hr>
+            <p>How to declare the arrays with alphabets ?</p>
+            <h4 id="display_alphabets_array">l,a,e,j,b,g,f,h,c,d,i,k</h4>
+            <p></p>
+            <hr>
+            <p> How to sort the arrays with alphabets ?</p>
+            <h4 id="display_sorted_alphabets_array">a,b,c,d,e,f,g,h,i,j,k,l</h4>
+            <p></p>
+            <hr>
+            <p>How to reverse the arrays with alphabets ?</p>
+            <h4 id="display_reverse_array">l,k,j,i,h,g,f,e,d,c,b,a</h4>
+            <p></p>
+            <hr>
+            <p>How to declare the arrays with numbers?</p>
+            <h4 id="display_number_array">45,4,9,16,25</h4>
+            <p></p>
+            <hr>
+            <p>How to find the maximum number from the arrays ?</p>
+            <h4 id="display_maximum_number">45</h4>
+            <p></p>
+            <hr>
+            <p>How to find the minimum number from the arrays ?</p>
+            <h4 id="display_minimum_number">4</h4>
+            <p></p>
+            <hr>
+            <p></p>
+            <h3 style="background-color: red; font-size: 23px;"> ADDITIONAL ACTIVITY
+            </h3>
+            <p> How to add element at the start of the array ?</p>
+            <h4 id="add_element_at_the_start_of_the_array">
+                watermelon,Apple,Orange,Mango,Lemon,cherry
+            </h4>
+            <p></p>
+            <hr>
+    </body>
+</html>  
